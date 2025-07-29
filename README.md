@@ -1,2 +1,2 @@
 # botao
-Ao clicá-lo, mudarão a frase e a cor de fundo da página 
+Ao clicá-lo, mudarão a frase e a cor do botão e de fundo da página 
