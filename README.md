@@ -1,12 +1,4 @@
-# botao
-Ao clicá-lo, mudarão a frase e a cor do botão e de fundo, da página 
-
-
-
-# botao-o-clique-aqui
-Ao se clicar no botão, a frase descrita no botão e a c cor mudam.
-
-
+⌚ 
 
 
 <!DOCTYPE html>
